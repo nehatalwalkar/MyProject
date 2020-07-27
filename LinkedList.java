@@ -1,7 +1,7 @@
 
 /*
  * 
- * Program for link list operation
+ * Program for linked list operation
  * 
  * */
 
@@ -10,6 +10,7 @@ public class LinkedList {
 	Node head = null;
 	Node next = null;
 	int data = 0;
+	
 	public static int counter = 0;
 	
 	/*
